@@ -1,1 +1,2 @@
 c:\users\globatos\documents\visual studio 2015\Projects\pruebarepo\pruebarepo\bin\Debug\pruebarepo.exe.config
+C:\Users\vjiturburuv\Source\Repos\pruebarepo\pruebarepo\bin\Debug\pruebarepo.exe.config
